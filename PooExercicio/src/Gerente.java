@@ -1,0 +1,3 @@
+class Gerente extends Funcionario {
+    
+}

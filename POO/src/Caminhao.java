@@ -1,0 +1,3 @@
+class Caminhao extends Veiculo{
+    
+}
